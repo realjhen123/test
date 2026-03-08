@@ -1,4 +1,4 @@
-include Makefile.config
+include makefile.config
 
 .PHONY: all clean debug release
 
